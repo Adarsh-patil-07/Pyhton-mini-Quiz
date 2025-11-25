@@ -25,8 +25,8 @@ If the answer is wrong, the quiz stops immediately and displays the correct answ
 ---
 
 ## ▶️ Runn Directly in VsCode
-Copy & Paste this Below Complete Url To Directly Open in VsCode
-[**vscode://vscode.git/clone?url=https://github.com/Adarsh-patil-07/02-Millionair-Game**](vscode://vscode.git/clone?url=https://github.com/Adarsh-patil-07/02-Millionair-Game)
+Copy & Paste this Below Complete Url To Directly Open in VsCode.
+vscode://vscode.git/clone?url=https://github.com/Adarsh-patil-07/02-Millionair-Game
 
 
 ## Sample Output 
